@@ -1,2 +1,8 @@
 # virtualenv
 .venv/
+
+# Jupyter lab
+.ipynb_checkpoints/
+
+# Pytorch Datasets
+data/
